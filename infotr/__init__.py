@@ -1,0 +1,1 @@
+from .infotr import main
